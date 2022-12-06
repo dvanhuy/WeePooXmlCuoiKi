@@ -12,3 +12,4 @@ E:\XML\Weepoo_QuanLyCuaHangThucAnNhanh\obj\Debug\Weepoo_QuanLyCuaHangThucAnNhanh
 E:\XML\Weepoo_QuanLyCuaHangThucAnNhanh\obj\Debug\Weepoo_QuanLyCuaHangThucAnNhanh.QuanLyDanhMuc.resources
 E:\XML\Weepoo_QuanLyCuaHangThucAnNhanh\obj\Debug\Weepoo_QuanLyCuaHangThucAnNhanh.QuanLyMonAn.resources
 E:\XML\Weepoo_QuanLyCuaHangThucAnNhanh\obj\Debug\Weepoo_QuanLyCuaHangThucAnNhanh.QuanLyNhanVien.resources
+E:\XML\Weepoo_QuanLyCuaHangThucAnNhanh\obj\Debug\Weepoo_QuanLyCuaHangThucAnNhanh.SaoLuu.resources
