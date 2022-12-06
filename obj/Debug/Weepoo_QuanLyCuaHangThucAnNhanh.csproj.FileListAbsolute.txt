@@ -8,3 +8,7 @@ E:\XML\Weepoo_QuanLyCuaHangThucAnNhanh\obj\Debug\Weepoo_QuanLyCuaHangThucAnNhanh
 E:\XML\Weepoo_QuanLyCuaHangThucAnNhanh\obj\Debug\Weepoo_QuanLyCuaHangThucAnNhanh.csproj.CoreCompileInputs.cache
 E:\XML\Weepoo_QuanLyCuaHangThucAnNhanh\obj\Debug\Weepoo_QuanLyCuaHangThucAnNhanh.exe
 E:\XML\Weepoo_QuanLyCuaHangThucAnNhanh\obj\Debug\Weepoo_QuanLyCuaHangThucAnNhanh.pdb
+E:\XML\Weepoo_QuanLyCuaHangThucAnNhanh\obj\Debug\Weepoo_QuanLyCuaHangThucAnNhanh.BanHang.resources
+E:\XML\Weepoo_QuanLyCuaHangThucAnNhanh\obj\Debug\Weepoo_QuanLyCuaHangThucAnNhanh.QuanLyDanhMuc.resources
+E:\XML\Weepoo_QuanLyCuaHangThucAnNhanh\obj\Debug\Weepoo_QuanLyCuaHangThucAnNhanh.QuanLyMonAn.resources
+E:\XML\Weepoo_QuanLyCuaHangThucAnNhanh\obj\Debug\Weepoo_QuanLyCuaHangThucAnNhanh.QuanLyNhanVien.resources
